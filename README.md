@@ -1,16 +1,26 @@
-## Hi there 👋
+# Chester Baah
 
-<!--
-**chester-baah/chester-baah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Analyst — SQL, Power BI, Python.** B.S. Computer Science, University of Tulsa.
 
-Here are some ideas to get you started:
+I turn messy operational data into decisions people actually make. Most recently
+in insurance: churn analysis across 50,000+ policy accounts, Power BI dashboards
+for acquisition and claims KPIs, and T-SQL / SSIS pipelines that cut reporting
+time by 40%.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+The projects here are public-data recreations of that same workflow — raw data in,
+business recommendation out. Every repo leads with the finding, not the code.
+
+---
+
+### What I work with
+
+`SQL (T-SQL, Oracle, Azure SQL)` · `Power BI` · `Tableau` · `Python (pandas)` ·
+`ETL / SSIS` · `Excel` · `Data Modeling`
+
+---
+
+### Contact
+
+[LinkedIn](https://linkedin.com/in/chester-baah-00b813317) · Open to Data Analyst /
+Business Intelligence Analyst roles
