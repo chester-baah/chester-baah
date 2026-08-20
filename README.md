@@ -20,6 +20,14 @@ business recommendation out. Every repo leads with the finding, not the code.
 
 ---
 
+### Pinned projects
+
+| Project | What it answers | Stack |
+|---|---|---|
+| **[customer-churn-analysis](https://github.com/chester-baah/customer-churn-analysis)** | Which customer segments churn, and where retention spend should go — one segment (month-to-month, 0–6 mo tenure) drives 36% of revenue at risk | SQL · Python |
+
+---
+
 ### Contact
 
 [LinkedIn](https://linkedin.com/in/chester-baah-00b813317) · Open to Data Analyst /
